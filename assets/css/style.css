@@ -73,6 +73,11 @@ a {
   object-fit: contain;
 }
 
+.brand {
+  display: flex;
+  align-items: center;
+}
+
 .site-nav {
   display: flex;
   align-items: center;
