@@ -1,0 +1,29 @@
+---
+layout: default
+title: Journal
+description: Articles, project stories, and studio insights from DELI Design Studio & Consulting.
+permalink: /blog/
+---
+
+<section class="page-hero page-hero-sm">
+  <div class="container">
+    <p class="eyebrow">Journal</p>
+    <h1>Articles and studio notes</h1>
+    <p class="lead">Thoughts on architecture, process, materials, and project development.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container post-list">
+    {% for post in site.posts %}
+      <a class="post-row reveal" href="{{ post.url }}">
+        <div>
+          <p class="meta">{{ post.date | date: "%B %d, %Y" }}</p>
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.description }}</p>
+        </div>
+        <span>Read →</span>
+      </a>
+    {% endfor %}
+  </div>
+</section>
