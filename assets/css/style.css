@@ -68,7 +68,7 @@ a {
 }
 
 .brand img {
-  height: 60px;
+  height: 80px;
   width: auto;
   object-fit: contain;
 }
@@ -475,11 +475,4 @@ a {
   .page-hero-sm {
     padding-top: 72px;
   }
-}
-
-/* HEADER LOGO SIZE */
-.brand img.logo {
-  height: 70px;
-  width: auto;
-  display: block;
 }
