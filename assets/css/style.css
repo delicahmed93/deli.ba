@@ -56,7 +56,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 78px;
+  min-height: 100px;
 }
 
 .brand {
@@ -475,4 +475,11 @@ a {
   .page-hero-sm {
     padding-top: 72px;
   }
+}
+
+/* HEADER LOGO SIZE */
+.brand img.logo {
+  height: 70px;
+  width: auto;
+  display: block;
 }
