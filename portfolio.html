@@ -1,0 +1,31 @@
+---
+layout: default
+title: Portfolio
+description: Selected architecture, interior, and commercial projects by DELI Design Studio & Consulting.
+permalink: /portfolio/
+---
+
+<section class="page-hero page-hero-sm">
+  <div class="container">
+    <p class="eyebrow">Portfolio</p>
+    <h1>Selected projects</h1>
+    <p class="lead">A growing archive of residential, commercial, and interior work.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container card-grid">
+    {% for project in site.projects %}
+      <a class="card reveal" href="{{ project.url }}">
+        {% if project.cover %}
+          <img src="{{ project.cover }}" alt="{{ project.title }}">
+        {% endif %}
+        <div class="card-body">
+          <p class="meta">{{ project.type }}{% if project.location %} · {{ project.location }}{% endif %}</p>
+          <h2>{{ project.title }}</h2>
+          <p>{{ project.excerpt }}</p>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
