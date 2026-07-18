@@ -1,10 +1,4 @@
----
 
-layout: default
-title: O nama
-description: DELI Design Studio & Consulting pruža usluge arhitektonskog projektovanja, stručnog nadzora, projektnog menadžmenta i tehničkog savjetovanja.
-permalink: /about/
-------------------
 
 <section class="about-hero">
   <div class="container about-hero-grid">
