@@ -253,89 +253,71 @@
 </section>
 
 <section class="section experience-section">
-  <div class="container">
-
+<div class="container">
 <div class="section-head reveal">
-  <p class="eyebrow">Profesionalno iskustvo</p>
-  <h2>Projektovanje i realizacija</h2>
+<p class="eyebrow">Profesionalno iskustvo</p>
+<h2>Projektovanje i realizacija</h2>
 </div>
 
 <div class="experience-list">
 
-  <article class="experience-item reveal">
-    <div class="experience-year">2017 – danas</div>
-    <div>
-      <h3>DELI Design Studio & Consulting</h3>
-      <p class="experience-position">Osnivač, direktor i arhitekt</p>
-      <p>
-        Arhitektonsko projektovanje, tehničko savjetovanje, koordinacija
-        projektnih faza, stručni nadzor, revizija dokumentacije i podrška
-        investitorima kroz proces pribavljanja dozvola i realizacije.
-      </p>
-    </div>
-  </article>
+<article class="experience-item reveal">
+<div class="experience-year">2017 – danas</div>
+<div class="experience-content">
+<h3>DELI Design Studio &amp; Consulting</h3>
+<p class="experience-position">Osnivač, direktor i arhitekt</p>
+<p>Arhitektonsko projektovanje, tehničko savjetovanje, koordinacija projektnih faza, stručni nadzor, revizija dokumentacije i podrška investitorima kroz proces pribavljanja dozvola i realizacije.</p>
+</div>
+</article>
 
-  <article class="experience-item reveal">
-    <div class="experience-year">2024 – 2026</div>
-    <div>
-      <h3>Bauing d.o.o. Sarajevo</h3>
-      <p class="experience-position">Park Residence</p>
-      <p>
-        Koordinacija građevinsko-zanatskih radova, kontrola kvaliteta,
-        komunikacija sa izvođačima, projektantom, nadzorom i investitorom
-        te izrada izvještaja i dinamičkih planova.
-      </p>
-    </div>
-  </article>
+<article class="experience-item reveal">
+<div class="experience-year">2024 – 2026</div>
+<div class="experience-content">
+<h3>Bauing d.o.o. Sarajevo</h3>
+<p class="experience-position">Šef gradilišta – Park Residence</p>
+<p>Koordinacija građevinsko-zanatskih radova, kontrola kvaliteta, komunikacija sa izvođačima, projektantom, nadzorom i investitorom te izrada izvještaja i dinamičkih planova.</p>
+</div>
+</article>
 
-  <article class="experience-item reveal">
-    <div class="experience-year">2024</div>
-    <div>
-      <h3>Riverland d.o.o. Sarajevo</h3>
-      <p class="experience-position">Savjetnik investitora i projekt menadžer</p>
-      <p>
-        Analiza ponuda, izbor izvođača, ugovaranje radova, nabavka
-        materijala i koordinacija izvođača na više stambeno-poslovnih
-        projekata.
-      </p>
-    </div>
-  </article>
+<article class="experience-item reveal">
+<div class="experience-year">2024</div>
+<div class="experience-content">
+<h3>Megagradnja d.o.o.</h3>
+<p class="experience-position">Šef gradilišta – Green City – Pearl Šip</p>
+<p>Organizacija radne snage i mehanizacije, vođenje građevinskog dnevnika i građevinskih knjiga, kontrola podizvođača, izrada situacija i koordinacija učesnika u građenju.</p>
+</div>
+</article>
 
-  <article class="experience-item reveal">
-    <div class="experience-year">2023 – 2024</div>
-    <div>
-      <h3>Vođenje gradilišta</h3>
-      <p class="experience-position">
-        Megagradnja i Hadžić Gradnja
-      </p>
-      <p>
-        Organizacija radne snage i mehanizacije, vođenje građevinskog
-        dnevnika i građevinskih knjiga, kontrola podizvođača, izrada
-        situacija i koordinacija učesnika u građenju.
-      </p>
-    </div>
-  </article>
+<article class="experience-item reveal">
+<div class="experience-year">2023 – 2024</div>
+<div class="experience-content">
+<h3>Hadžić Gradnja d.o.o.</h3>
+<p class="experience-position">Šef gradilišta – Porsche Blažuj – NATO baza Butmir</p>
+<p>Organizacija radne snage i mehanizacije, vođenje građevinskog dnevnika i građevinskih knjiga, kontrola podizvođača, izrada situacija i koordinacija učesnika u građenju.</p>
+</div>
+</article>
 
-  <article class="experience-item reveal">
-    <div class="experience-year">2016 – 2017</div>
-    <div>
-      <h3>Al Diyar Real Estate</h3>
-      <p class="experience-position">
-        Arhitekt, projektant i asistent projekt menadžeru
-      </p>
-      <p>
-        Projektovanje stambenih naselja i objekata, priprema dokumentacije,
-        koordinacija projektanata, pribavljanje saglasnosti i podrška
-        realizaciji projekata.
-      </p>
-    </div>
-  </article>
+<article class="experience-item reveal">
+<div class="experience-year">2024</div>
+<div class="experience-content">
+<h3>Riverland d.o.o. Sarajevo</h3>
+<p class="experience-position">Savjetnik investitora i projekt menadžer</p>
+<p>Analiza ponuda, izbor izvođača, ugovaranje radova, nabavka materijala i koordinacija izvođača na više stambeno-poslovnih projekata.</p>
+</div>
+</article>
+
+<article class="experience-item reveal">
+<div class="experience-year">2016 – 2017</div>
+<div class="experience-content">
+<h3>Al Diyar Real Estate</h3>
+<p class="experience-position">Arhitekt, projektant i asistent projekt menadžeru</p>
+<p>Projektovanje stambenih naselja i objekata, priprema dokumentacije, koordinacija projektanata, pribavljanje saglasnosti i podrška realizaciji projekata.</p>
+</div>
+</article>
 
 </div>
-
-  </div>
+</div>
 </section>
-
 <section class="section cta-block">
   <div class="container cta-card reveal">
 
