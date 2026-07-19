@@ -37,7 +37,7 @@
     </div>
 
     <div>
-      <strong>80+</strong>
+      <strong>100+</strong>
       <span>projekata</span>
     </div>
 
@@ -182,7 +182,7 @@
     </div>
 
     <div>
-      <strong>80+</strong>
+      <strong>100+</strong>
       <span>projekata u portfoliju</span>
     </div>
 
