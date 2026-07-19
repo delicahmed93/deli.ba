@@ -338,6 +338,54 @@
   </p>
 </div>
 
+<section class="section linkedin-section">
+    <div class="container">
+
+        <div class="linkedin-card reveal">
+
+            <div class="linkedin-content">
+
+                <p class="eyebrow">
+                    Profesionalna mreža
+                </p>
+
+                <h2>
+                    Povežimo se na LinkedInu
+                </h2>
+
+                <p>
+                    Pratite profesionalni razvoj, nove projekte, stručne članke i
+                    arhitektonske ideje. Otvoren sam za saradnju, poslovne kontakte
+                    i razmjenu iskustava.
+                </p>
+
+            </div>
+
+            <a
+                href="https://www.linkedin.com/in/ahmed-deli%C4%87-725409405/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="linkedin-button"
+            >
+
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     width="26"
+                     height="26"
+                     viewBox="0 0 24 24"
+                     fill="currentColor">
+
+                    <path d="M4.98 3.5C4.98 4.6 4.09 5.5 3 5.5S1.02 4.6 1.02 3.5 1.91 1.5 3 1.5s1.98.9 1.98 2zM1.5 8h3V22h-3zM8 8h2.88v1.91h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.59V22h-3v-6.17c0-1.47-.03-3.36-2.05-3.36-2.06 0-2.38 1.61-2.38 3.25V22H8z"/>
+                </svg>
+
+                <span>Poveži se na LinkedInu</span>
+
+            </a>
+
+        </div>
+
+    </div>
+</section>
+
 <a href="/contact/" class="btn about-cta-button">
   Pošaljite upit
 </a>
