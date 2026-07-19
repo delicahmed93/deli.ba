@@ -307,7 +307,7 @@
 </article>
 
 <article class="experience-item reveal">
-<div class="experience-year">1018</div>
+<div class="experience-year">2018</div>
 <div class="experience-content">
 <h3>Općina Ilidža</h3>
 <p class="experience-position">Volonter u građevinskoj isprekciji i MZ Blažuj</p>
