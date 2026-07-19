@@ -326,6 +326,7 @@
 </div>
 </div>
 </section>
+
 <section class="section cta-block">
   <div class="container cta-card reveal">
 
@@ -386,7 +387,7 @@
           <path d="M4.98 3.5C4.98 4.6 4.09 5.5 3 5.5S1.02 4.6 1.02 3.5 1.91 1.5 3 1.5s1.98.9 1.98 2zM1.5 8h3V22h-3zM8 8h2.88v1.91h.04c.4-.76 1.38-1.56 2.84-1.56 3.04 0 3.6 2 3.6 4.59V22h-3v-6.17c0-1.47-.03-3.36-2.05-3.36-2.06 0-2.38 1.61-2.38 3.25V22H8z"/>
         </svg>
 
-        <span>Poveži se na LinkedInu</span>
+        <span>Povežimo se na LinkedInu</span>
 
       </a>
 
