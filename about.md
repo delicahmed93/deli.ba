@@ -282,6 +282,15 @@
 <article class="experience-item reveal">
 <div class="experience-year">2024</div>
 <div class="experience-content">
+<h3>Riverland d.o.o. Sarajevo</h3>
+<p class="experience-position">Savjetnik investitora i projekt menadžer - Džada 62</p>
+<p>Analiza ponuda, izbor izvođača, ugovaranje radova, nabavka materijala i koordinacija izvođača na više stambeno-poslovnih projekata.</p>
+</div>
+</article>
+
+<article class="experience-item reveal">
+<div class="experience-year">2024</div>
+<div class="experience-content">
 <h3>Megagradnja d.o.o.</h3>
 <p class="experience-position">Šef gradilišta – Green City – Pearl Šip</p>
 <p>Organizacija radne snage i mehanizacije, vođenje građevinskog dnevnika i građevinskih knjiga, kontrola podizvođača, izrada situacija i koordinacija učesnika u građenju.</p>
@@ -294,15 +303,6 @@
 <h3>Hadžić Gradnja d.o.o.</h3>
 <p class="experience-position">Šef gradilišta – Porsche Blažuj – NATO baza Butmir</p>
 <p>Organizacija radne snage i mehanizacije, vođenje građevinskog dnevnika i građevinskih knjiga, kontrola podizvođača, izrada situacija i koordinacija učesnika u građenju.</p>
-</div>
-</article>
-
-<article class="experience-item reveal">
-<div class="experience-year">2024</div>
-<div class="experience-content">
-<h3>Riverland d.o.o. Sarajevo</h3>
-<p class="experience-position">Savjetnik investitora i projekt menadžer</p>
-<p>Analiza ponuda, izbor izvođača, ugovaranje radova, nabavka materijala i koordinacija izvođača na više stambeno-poslovnih projekata.</p>
 </div>
 </article>
 
