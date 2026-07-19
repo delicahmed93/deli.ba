@@ -307,6 +307,14 @@
 </article>
 
 <article class="experience-item reveal">
+<div class="experience-year">1018</div>
+<div class="experience-content">
+<h3>Općina Ilidža</h3>
+<p class="experience-position">Volonter u građevinskoj isprekciji i MZ Blažuj</p>
+<p>Rad sa strankama, izlazak na teren, izrada zapisnika i rješenja, te drugi administrativni poslovi.</p>
+</div>
+</article>
+<article class="experience-item reveal">
 <div class="experience-year">2016 – 2017</div>
 <div class="experience-content">
 <h3>Al Diyar Real Estate</h3>
