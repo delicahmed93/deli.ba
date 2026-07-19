@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Contact
-description: Get in touch with DELI Design Studio & Consulting.
+title: Kontakt
+description: Kontaktirajte DELI Design Studio & Consulting.
 permalink: /contact/
 ---
 
