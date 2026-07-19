@@ -1,9 +1,6 @@
-
-
 <section class="about-hero">
   <div class="container about-hero-grid">
 
-```
 <div class="about-hero-copy reveal">
   <p class="eyebrow">O nama</p>
 
@@ -50,7 +47,6 @@
     </div>
   </div>
 </div>
-```
 
   </div>
 </section>
@@ -58,7 +54,6 @@
 <section class="section">
   <div class="container about-intro-grid">
 
-```
 <div class="reveal">
   <p class="eyebrow">Kompanija</p>
   <h2 class="about-section-title">
@@ -95,7 +90,6 @@
     ekonomičnih i dugoročno kvalitetnih rješenja.
   </p>
 </div>
-```
 
   </div>
 </section>
@@ -103,7 +97,6 @@
 <section class="section section-alt">
   <div class="container">
 
-```
 <div class="section-head reveal">
   <p class="eyebrow">Djelatnosti</p>
   <h2>Naše usluge</h2>
@@ -116,7 +109,7 @@
 <div class="services-grid">
 
   <article class="service-card reveal">
-    <span class="service-number">01</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 21h18"/><path d="M6 21V10l6-5 6 5v11"/><path d="M9 21v-6h6v6"/><path d="M4 10l8-7 8 7"/></svg></span>
     <h3>Arhitektonsko projektovanje</h3>
     <p>
       Izrada idejnih rješenja, idejnih, glavnih i izvedbenih projekata
@@ -125,7 +118,7 @@
   </article>
 
   <article class="service-card reveal">
-    <span class="service-number">02</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 2h9l5 5v15H6z"/><path d="M14 2v6h6"/><path d="M9 13h6"/><path d="M9 17h6"/></svg></span>
     <h3>Projektna dokumentacija</h3>
     <p>
       Priprema tehničke dokumentacije, projekata izvedenog stanja,
@@ -134,7 +127,7 @@
   </article>
 
   <article class="service-card reveal">
-    <span class="service-number">03</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 5h6"/><path d="M9 3h6v4H9z"/><rect x="5" y="5" width="14" height="16" rx="2"/><path d="m9 14 2 2 4-4"/></svg></span>
     <h3>Stručni nadzor</h3>
     <p>
       Kontrola kvaliteta izvođenja, usklađenosti radova sa projektom,
@@ -143,7 +136,7 @@
   </article>
 
   <article class="service-card reveal">
-    <span class="service-number">04</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="8" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M2.5 20c.5-4 2.5-6 5.5-6s5 2 5.5 6"/><path d="M14 14.5c2.8-.6 5.8 1.1 6.5 4.5"/></svg></span>
     <h3>Projekt menadžment</h3>
     <p>
       Koordinacija projektanata, izvođača, nadzora i investitora,
@@ -152,7 +145,7 @@
   </article>
 
   <article class="service-card reveal">
-    <span class="service-number">05</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M21 15a4 4 0 0 1-4 4H9l-5 3v-7a7 7 0 1 1 17 0z"/><path d="M8 10h8"/><path d="M8 14h5"/></svg></span>
     <h3>Investitorsko savjetovanje</h3>
     <p>
       Stručna podrška pri izboru lokacije, analizi ponuda, izboru
@@ -161,7 +154,7 @@
   </article>
 
   <article class="service-card reveal">
-    <span class="service-number">06</span>
+    <span class="service-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="m12 2 8 4.5v9L12 20l-8-4.5v-9z"/><path d="m4 6.5 8 4.5 8-4.5"/><path d="M12 11v9"/></svg></span>
     <h3>Vizualizacije i prezentacije</h3>
     <p>
       Izrada 3D modela, arhitektonskih vizualizacija, fotomontaža,
@@ -170,7 +163,6 @@
   </article>
 
 </div>
-```
 
   </div>
 </section>
@@ -178,7 +170,6 @@
 <section class="section founder-section">
   <div class="container founder-grid">
 
-```
 <div class="founder-title reveal">
   <p class="eyebrow">Osnivač i direktor</p>
   <h2>Ahmed Delić</h2>
@@ -257,7 +248,6 @@
   </div>
 
 </div>
-```
 
   </div>
 </section>
@@ -265,7 +255,6 @@
 <section class="section experience-section">
   <div class="container">
 
-```
 <div class="section-head reveal">
   <p class="eyebrow">Profesionalno iskustvo</p>
   <h2>Projektovanje i realizacija</h2>
@@ -343,7 +332,6 @@
   </article>
 
 </div>
-```
 
   </div>
 </section>
@@ -351,7 +339,6 @@
 <section class="section cta-block">
   <div class="container cta-card reveal">
 
-```
 <div>
   <p class="eyebrow">Saradnja</p>
   <h2>Imate projekat ili investicijsku ideju?</h2>
@@ -364,7 +351,6 @@
 <a href="/contact/" class="btn about-cta-button">
   Pošaljite upit
 </a>
-```
 
   </div>
 </section>
